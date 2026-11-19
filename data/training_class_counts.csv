@@ -1,0 +1,10 @@
+class,training_images
+healthy_road,12000
+debris,2400
+standing_water,1800
+landslide,900
+washout,700
+undercut_shoulder,300
+firm_ground,3000
+soft_ground,250
+obstruction,600

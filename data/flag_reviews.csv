@@ -1,0 +1,1414 @@
+obs_id,reviewer_id,verdict,review_minutes,review_notes
+O000003,AN-04,TP,3.9,Hazard confirmed
+O000022,AN-01,TP,4.0,Hazard confirmed
+O000026,AN-01,TP,3.6,Hazard confirmed
+O000048,AN-05,FP,4.6,Fresh asphalt patch read as damage
+O000092,ENG-03,TP,5.6,Hazard confirmed
+O000096,ENG-04,TP,6.9,Hazard confirmed
+O000099,AN-06,TP,6.4,Hazard confirmed
+O000100,ENG-04,TP,8.4,Hazard confirmed
+O000102,AN-06,TP,7.9,Hazard confirmed
+O000117,ENG-01,TP,6.7,Hazard confirmed
+O000144,ENG-01,TP,3.8,Hazard confirmed
+O000149,AN-06,TP,3.8,Hazard confirmed
+O000157,AN-02,FP,5.2,"Duplicate tile, hazard already logged"
+O000169,AN-01,TP,4.6,Hazard confirmed
+O000195,AN-02,TP,4.8,Hazard confirmed
+O000197,AN-04,TP,7.2,Hazard confirmed
+O000203,ENG-02,TP,4.4,Hazard confirmed
+O000220,ENG-02,TP,4.8,Hazard confirmed
+O000225,AN-03,TP,5.6,Hazard confirmed
+O000226,ENG-03,TP,5.4,Hazard confirmed
+O000232,AN-04,TP,4.3,Hazard confirmed
+O000234,ENG-03,TP,6.1,Hazard confirmed
+O000235,ENG-03,FP,4.9,Fresh asphalt patch read as damage
+O000254,AN-04,TP,4.5,Hazard confirmed
+O000257,AN-03,TP,5.6,Hazard confirmed
+O000266,AN-01,TP,5.3,Hazard confirmed
+O000267,AN-05,TP,7.1,Hazard confirmed
+O000279,AN-06,TP,8.5,Hazard confirmed
+O000299,ENG-01,TP,3.8,Hazard confirmed
+O000314,AN-04,TP,5.5,Hazard confirmed
+O000316,ENG-01,TP,4.6,Hazard confirmed
+O000317,AN-05,TP,5.3,Hazard confirmed
+O000325,AN-06,TP,5.2,Hazard confirmed
+O000329,AN-03,TP,5.1,Hazard confirmed
+O000337,ENG-03,TP,5.2,Hazard confirmed
+O000351,AN-01,TP,4.8,Hazard confirmed
+O000358,AN-04,TP,3.4,Hazard confirmed
+O000360,ENG-01,TP,4.5,Hazard confirmed
+O000361,AN-06,TP,2.8,Hazard confirmed
+O000370,ENG-01,TP,6.7,Hazard confirmed
+O000377,AN-06,TP,4.3,Hazard confirmed
+O000399,AN-02,TP,4.4,Hazard confirmed
+O000402,AN-01,TP,5.2,Hazard confirmed
+O000406,AN-01,TP,4.2,Hazard confirmed
+O000412,AN-05,TP,5.5,Hazard confirmed
+O000417,AN-03,TP,2.5,Hazard confirmed
+O000419,AN-03,TP,5.6,Hazard confirmed
+O000422,ENG-01,FP,6.2,Painted road marking read as edge crack
+O000428,ENG-04,TP,3.8,Hazard confirmed
+O000431,AN-02,TP,5.3,Hazard confirmed
+O000432,ENG-02,TP,4.4,Hazard confirmed
+O000436,ENG-04,TP,3.3,Hazard confirmed
+O000448,ENG-04,TP,6.1,Hazard confirmed
+O000466,AN-01,TP,4.2,Hazard confirmed
+O000477,AN-01,TP,5.6,Hazard confirmed
+O000486,ENG-01,TP,6.1,Hazard confirmed
+O000494,AN-01,TP,4.5,Hazard confirmed
+O000495,ENG-02,TP,6.2,Hazard confirmed
+O000497,AN-04,TP,5.2,Hazard confirmed
+O000504,AN-04,TP,5.4,Hazard confirmed
+O000509,AN-01,FP,8.0,"Reflection on wet surface, no water depth on LiDAR"
+O000566,AN-04,TP,3.9,Hazard confirmed
+O000567,AN-03,FP,5.9,Painted road marking read as edge crack
+O000568,AN-02,TP,6.0,Hazard confirmed
+O000569,AN-01,TP,6.8,Hazard confirmed
+O000589,ENG-02,TP,6.0,Hazard confirmed
+O000596,AN-02,TP,7.1,Hazard confirmed
+O000603,ENG-03,TP,4.1,Hazard confirmed
+O000607,ENG-02,TP,6.4,Hazard confirmed
+O000610,AN-06,TP,3.7,Hazard confirmed
+O000636,AN-01,TP,4.3,Hazard confirmed
+O000647,AN-03,TP,4.1,Hazard confirmed
+O000650,ENG-04,TP,5.8,Hazard confirmed
+O000654,ENG-02,TP,5.2,Hazard confirmed
+O000675,ENG-03,TP,3.5,Hazard confirmed
+O000682,ENG-03,TP,5.6,Hazard confirmed
+O000701,AN-01,TP,3.1,Hazard confirmed
+O000702,AN-04,TP,4.4,Hazard confirmed
+O000708,AN-02,TP,6.1,Hazard confirmed
+O000713,AN-04,TP,4.7,Hazard confirmed
+O000716,ENG-02,TP,7.4,Hazard confirmed
+O000718,AN-04,TP,7.0,Hazard confirmed
+O000729,ENG-04,TP,6.8,Hazard confirmed
+O000755,ENG-03,TP,2.7,Hazard confirmed
+O000757,AN-04,TP,5.4,Hazard confirmed
+O000768,AN-02,TP,4.2,Hazard confirmed
+O000769,AN-05,TP,6.5,Hazard confirmed
+O000770,ENG-04,TP,7.5,Hazard confirmed
+O000784,AN-02,TP,6.1,Hazard confirmed
+O000790,AN-05,TP,6.0,Hazard confirmed
+O000796,ENG-03,TP,6.1,Hazard confirmed
+O000799,ENG-02,TP,2.3,Hazard confirmed
+O000801,AN-02,TP,3.6,Hazard confirmed
+O000802,ENG-01,TP,5.5,Hazard confirmed
+O000806,ENG-04,TP,7.1,Hazard confirmed
+O000814,ENG-02,FP,4.4,"Wet asphalt sheen, road dry underneath"
+O000815,AN-06,FP,5.3,Same item as previous frame
+O000820,AN-04,FP,5.7,"Reflection on wet surface, no water depth on LiDAR"
+O000831,ENG-02,FP,4.8,"Reflection on wet surface, no water depth on LiDAR"
+O000833,AN-04,TP,3.7,Hazard confirmed
+O000839,AN-02,TP,5.3,Hazard confirmed
+O000841,AN-03,TP,3.8,Hazard confirmed
+O000846,AN-05,TP,4.3,Hazard confirmed
+O000851,AN-05,TP,5.4,Hazard confirmed
+O000884,AN-06,TP,6.6,Hazard confirmed
+O000888,ENG-04,FP,4.7,Fresh asphalt patch read as damage
+O000916,AN-01,TP,5.6,Hazard confirmed
+O000923,AN-03,TP,3.9,Hazard confirmed
+O000924,AN-04,TP,2.7,Hazard confirmed
+O000930,ENG-01,TP,5.4,Hazard confirmed
+O000964,AN-05,TP,6.5,Hazard confirmed
+O000965,AN-03,TP,5.1,Hazard confirmed
+O000968,ENG-04,TP,3.5,Hazard confirmed
+O000975,AN-03,TP,7.9,Hazard confirmed
+O000981,ENG-04,TP,7.3,Hazard confirmed
+O000982,AN-06,FP,6.5,"Unclear, road appears normal"
+O000983,ENG-01,TP,2.8,Hazard confirmed
+O000984,ENG-02,TP,4.0,Hazard confirmed
+O000985,AN-02,FP,6.9,"Duplicate tile, hazard already logged"
+O001009,AN-01,TP,6.8,Hazard confirmed
+O001023,AN-02,TP,6.3,Hazard confirmed
+O001038,AN-01,TP,5.6,Hazard confirmed
+O001047,AN-01,TP,7.1,Hazard confirmed
+O001072,AN-05,FP,5.7,Nothing found on recheck
+O001081,ENG-01,TP,3.5,Hazard confirmed
+O001094,ENG-03,TP,3.9,Hazard confirmed
+O001103,AN-02,TP,4.4,Hazard confirmed
+O001109,AN-02,TP,8.4,Hazard confirmed
+O001124,AN-06,TP,3.4,Hazard confirmed
+O001131,AN-06,TP,3.7,Hazard confirmed
+O001134,ENG-03,TP,4.0,Hazard confirmed
+O001145,AN-04,TP,4.6,Hazard confirmed
+O001160,AN-02,TP,4.6,Hazard confirmed
+O001166,AN-06,FP,4.1,"Duplicate tile, hazard already logged"
+O001179,ENG-01,TP,6.7,Hazard confirmed
+O001202,ENG-03,TP,6.9,Hazard confirmed
+O001224,ENG-04,TP,7.0,Hazard confirmed
+O001225,ENG-03,TP,4.9,Hazard confirmed
+O001237,ENG-03,TP,4.8,Hazard confirmed
+O001238,ENG-03,TP,4.6,Hazard confirmed
+O001239,ENG-03,TP,3.4,Hazard confirmed
+O001247,AN-04,FP,3.1,Painted road marking read as edge crack
+O001260,ENG-01,TP,5.5,Hazard confirmed
+O001261,AN-04,TP,3.9,Hazard confirmed
+O001268,AN-04,TP,3.1,Hazard confirmed
+O001274,ENG-04,TP,3.8,Hazard confirmed
+O001277,ENG-04,TP,5.8,Hazard confirmed
+O001284,ENG-04,TP,5.7,Hazard confirmed
+O001300,AN-04,TP,4.5,Hazard confirmed
+O001303,ENG-03,TP,3.5,Hazard confirmed
+O001304,AN-01,TP,3.2,Hazard confirmed
+O001313,ENG-01,TP,2.9,Hazard confirmed
+O001318,AN-04,TP,3.4,Hazard confirmed
+O001319,AN-03,TP,2.9,Hazard confirmed
+O001327,AN-01,FP,6.4,"Duplicate tile, hazard already logged"
+O001334,AN-01,TP,5.9,Hazard confirmed
+O001342,AN-02,FP,6.7,"Reflection on wet surface, no water depth on LiDAR"
+O001343,ENG-02,TP,6.5,Hazard confirmed
+O001354,AN-06,TP,5.3,Hazard confirmed
+O001370,AN-03,TP,4.5,Hazard confirmed
+O001374,AN-04,TP,6.8,Hazard confirmed
+O001422,ENG-03,TP,4.8,Hazard confirmed
+O001466,AN-01,TP,5.3,Hazard confirmed
+O001477,ENG-02,TP,2.5,Hazard confirmed
+O001500,AN-03,TP,3.4,Hazard confirmed
+O001502,ENG-01,TP,5.8,Hazard confirmed
+O001506,ENG-02,FP,5.6,"Wet asphalt sheen, road dry underneath"
+O001508,AN-03,TP,4.9,Hazard confirmed
+O001510,AN-02,FP,5.6,Same item as previous frame
+O001511,ENG-02,TP,5.5,Hazard confirmed
+O001515,AN-04,TP,6.7,Hazard confirmed
+O001529,AN-03,TP,5.9,Hazard confirmed
+O001541,ENG-02,TP,3.2,Hazard confirmed
+O001556,ENG-01,TP,6.0,Hazard confirmed
+O001558,AN-03,TP,5.9,Hazard confirmed
+O001567,ENG-03,TP,3.2,Hazard confirmed
+O001573,AN-05,TP,6.6,Hazard confirmed
+O001577,ENG-02,TP,5.2,Hazard confirmed
+O001583,ENG-04,TP,5.0,Hazard confirmed
+O001585,AN-01,TP,3.8,Hazard confirmed
+O001597,ENG-01,TP,5.0,Hazard confirmed
+O001603,ENG-04,TP,5.5,Hazard confirmed
+O001619,ENG-04,TP,4.7,Hazard confirmed
+O001621,AN-03,TP,6.2,Hazard confirmed
+O001624,AN-05,TP,6.6,Hazard confirmed
+O001637,ENG-02,TP,4.7,Hazard confirmed
+O001638,ENG-01,FP,5.2,Shadow line read as edge drop
+O001663,AN-05,TP,4.9,Hazard confirmed
+O001664,ENG-01,TP,4.0,Hazard confirmed
+O001667,ENG-04,TP,5.0,Hazard confirmed
+O001670,AN-01,FP,5.6,Shadow line read as edge drop
+O001671,AN-06,TP,7.8,Hazard confirmed
+O001673,AN-06,TP,6.1,Hazard confirmed
+O001674,ENG-02,TP,6.1,Hazard confirmed
+O001678,AN-01,TP,2.0,Hazard confirmed
+O001688,ENG-01,TP,4.9,Hazard confirmed
+O001694,AN-06,TP,5.8,Hazard confirmed
+O001695,ENG-02,TP,7.6,Hazard confirmed
+O001702,AN-02,TP,4.2,Hazard confirmed
+O001705,ENG-03,TP,4.7,Hazard confirmed
+O001708,ENG-02,TP,5.0,Hazard confirmed
+O001713,ENG-04,TP,4.9,Hazard confirmed
+O001732,ENG-03,TP,5.6,Hazard confirmed
+O001744,ENG-03,FP,5.7,"Duplicate tile, hazard already logged"
+O001751,AN-02,TP,3.0,Hazard confirmed
+O001770,AN-02,TP,3.3,Hazard confirmed
+O001774,AN-03,TP,3.7,Hazard confirmed
+O001775,AN-03,TP,4.4,Hazard confirmed
+O001783,AN-01,TP,5.0,Hazard confirmed
+O001785,ENG-04,FP,7.0,Painted road marking read as edge crack
+O001813,AN-06,FP,4.9,Nothing found on recheck
+O001814,AN-05,FP,5.7,Painted road marking read as edge crack
+O001815,AN-02,FP,7.7,"Unclear, road appears normal"
+O001819,ENG-02,TP,3.4,Hazard confirmed
+O001821,ENG-02,TP,5.4,Hazard confirmed
+O001826,ENG-04,TP,4.7,Hazard confirmed
+O001828,ENG-01,FP,3.7,"Unclear, road appears normal"
+O001838,ENG-03,TP,6.5,Hazard confirmed
+O001840,AN-03,TP,6.4,Hazard confirmed
+O001842,ENG-04,TP,2.3,Hazard confirmed
+O001858,AN-05,TP,6.5,Hazard confirmed
+O001859,ENG-02,TP,5.2,Hazard confirmed
+O001868,AN-01,FP,4.9,Fresh asphalt patch read as damage
+O001874,ENG-03,TP,6.5,Hazard confirmed
+O001878,ENG-01,TP,5.0,Hazard confirmed
+O001917,AN-06,TP,5.2,Hazard confirmed
+O001920,ENG-02,TP,4.4,Hazard confirmed
+O001922,ENG-04,TP,2.7,Hazard confirmed
+O001925,AN-04,TP,6.7,Hazard confirmed
+O001932,ENG-01,TP,2.5,Hazard confirmed
+O001939,AN-05,FP,4.8,"Old rockfall, already cleared, road open"
+O001940,AN-05,FP,5.0,Painted road marking read as edge crack
+O001944,ENG-04,TP,4.1,Hazard confirmed
+O001949,AN-02,TP,5.1,Hazard confirmed
+O001953,AN-02,TP,4.5,Hazard confirmed
+O001957,ENG-02,FP,4.3,Same item as previous frame
+O001977,AN-04,TP,5.6,Hazard confirmed
+O001988,AN-06,TP,5.1,Hazard confirmed
+O001989,AN-04,TP,4.6,Hazard confirmed
+O002003,AN-03,TP,5.5,Hazard confirmed
+O002005,AN-06,TP,4.5,Hazard confirmed
+O002012,AN-03,TP,5.2,Hazard confirmed
+O002023,AN-02,TP,4.0,Hazard confirmed
+O002030,AN-06,TP,6.5,Hazard confirmed
+O002053,AN-04,FP,5.5,"Unclear, road appears normal"
+O002076,ENG-03,TP,5.3,Hazard confirmed
+O002087,AN-01,TP,9.0,Hazard confirmed
+O002097,AN-04,TP,4.5,Hazard confirmed
+O002099,AN-03,TP,4.8,Hazard confirmed
+O002111,AN-01,TP,5.7,Hazard confirmed
+O002117,ENG-01,TP,4.2,Hazard confirmed
+O002118,ENG-01,TP,8.6,Hazard confirmed
+O002120,AN-04,TP,4.4,Hazard confirmed
+O002122,ENG-01,TP,3.1,Hazard confirmed
+O002125,AN-04,TP,4.2,Hazard confirmed
+O002128,AN-04,TP,2.8,Hazard confirmed
+O002136,AN-05,TP,4.6,Hazard confirmed
+O002139,AN-04,FP,5.2,Same item as previous frame
+O002140,AN-03,FP,4.4,Painted road marking read as edge crack
+O002142,ENG-01,TP,4.2,Hazard confirmed
+O002143,AN-01,TP,6.8,Hazard confirmed
+O002149,ENG-01,TP,4.6,Hazard confirmed
+O002158,AN-02,TP,6.8,Hazard confirmed
+O002172,ENG-01,TP,6.3,Hazard confirmed
+O002176,ENG-04,TP,4.8,Hazard confirmed
+O002183,AN-02,TP,4.2,Hazard confirmed
+O002205,AN-05,FP,5.3,"Wet asphalt sheen, road dry underneath"
+O002206,AN-05,TP,3.4,Hazard confirmed
+O002212,AN-03,FP,4.6,"Reflection on wet surface, no water depth on LiDAR"
+O002214,AN-02,TP,3.5,Hazard confirmed
+O002258,AN-01,TP,6.6,Hazard confirmed
+O002308,AN-06,FP,2.8,"Tree shadow across road, no debris"
+O002325,ENG-02,TP,2.2,Hazard confirmed
+O002326,ENG-03,FP,3.9,Painted road marking read as edge crack
+O002327,AN-03,TP,2.0,Hazard confirmed
+O002336,AN-06,TP,5.8,Hazard confirmed
+O002352,ENG-01,TP,4.8,Hazard confirmed
+O002361,ENG-04,TP,4.1,Hazard confirmed
+O002368,ENG-01,TP,5.8,Hazard confirmed
+O002369,AN-04,TP,5.5,Hazard confirmed
+O002377,AN-03,TP,4.5,Hazard confirmed
+O002390,ENG-02,TP,7.9,Hazard confirmed
+O002400,AN-06,TP,7.0,Hazard confirmed
+O002401,AN-02,TP,5.9,Hazard confirmed
+O002402,AN-05,TP,6.6,Hazard confirmed
+O002418,AN-01,TP,5.1,Hazard confirmed
+O002423,ENG-04,FP,4.2,Same item as previous frame
+O002424,ENG-03,TP,5.4,Hazard confirmed
+O002425,AN-05,TP,5.4,Hazard confirmed
+O002432,AN-03,TP,8.0,Hazard confirmed
+O002439,ENG-01,TP,3.0,Hazard confirmed
+O002444,ENG-04,TP,7.1,Hazard confirmed
+O002453,ENG-03,TP,4.4,Hazard confirmed
+O002456,ENG-03,TP,4.5,Hazard confirmed
+O002474,ENG-02,FP,4.4,"Tree shadow across road, no debris"
+O002480,ENG-03,FP,5.2,"Wet asphalt sheen, road dry underneath"
+O002491,AN-06,TP,7.6,Hazard confirmed
+O002499,AN-04,FP,6.2,Fresh asphalt patch read as damage
+O002505,AN-06,TP,4.1,Hazard confirmed
+O002507,AN-03,TP,4.1,Hazard confirmed
+O002512,ENG-04,TP,4.6,Hazard confirmed
+O002517,AN-01,TP,4.7,Hazard confirmed
+O002526,ENG-04,TP,3.9,Hazard confirmed
+O002547,AN-04,TP,3.0,Hazard confirmed
+O002548,AN-01,TP,4.3,Hazard confirmed
+O002552,AN-06,TP,5.7,Hazard confirmed
+O002555,AN-05,TP,3.0,Hazard confirmed
+O002562,AN-04,TP,4.8,Hazard confirmed
+O002564,AN-04,TP,7.0,Hazard confirmed
+O002570,AN-02,TP,6.1,Hazard confirmed
+O002571,ENG-02,TP,4.4,Hazard confirmed
+O002572,AN-04,TP,3.4,Hazard confirmed
+O002578,AN-02,TP,5.1,Hazard confirmed
+O002581,AN-06,TP,2.0,Hazard confirmed
+O002591,AN-01,TP,6.0,Hazard confirmed
+O002603,AN-03,TP,6.1,Hazard confirmed
+O002609,AN-05,TP,4.7,Hazard confirmed
+O002614,ENG-02,TP,5.9,Hazard confirmed
+O002615,AN-02,TP,4.2,Hazard confirmed
+O002638,ENG-02,TP,2.9,Hazard confirmed
+O002645,AN-06,TP,5.0,Hazard confirmed
+O002647,AN-06,TP,5.2,Hazard confirmed
+O002701,AN-06,TP,5.5,Hazard confirmed
+O002702,ENG-04,TP,6.5,Hazard confirmed
+O002705,ENG-03,TP,6.5,Hazard confirmed
+O002737,ENG-04,TP,6.6,Hazard confirmed
+O002739,ENG-03,TP,4.1,Hazard confirmed
+O002740,ENG-04,FP,5.4,Nothing found on recheck
+O002753,AN-03,TP,8.3,Hazard confirmed
+O002769,ENG-03,TP,4.6,Hazard confirmed
+O002786,ENG-04,TP,2.6,Hazard confirmed
+O002802,ENG-04,TP,5.5,Hazard confirmed
+O002807,AN-01,TP,7.3,Hazard confirmed
+O002815,AN-06,TP,3.3,Hazard confirmed
+O002823,ENG-01,FP,5.9,"Unclear, road appears normal"
+O002833,AN-03,TP,2.9,Hazard confirmed
+O002842,ENG-04,FP,4.7,Painted road marking read as edge crack
+O002865,ENG-03,TP,5.8,Hazard confirmed
+O002869,AN-03,TP,5.6,Hazard confirmed
+O002871,AN-01,TP,5.1,Hazard confirmed
+O002876,AN-05,TP,2.7,Hazard confirmed
+O002888,AN-04,TP,4.6,Hazard confirmed
+O002902,ENG-02,TP,4.8,Hazard confirmed
+O002913,ENG-02,TP,4.9,Hazard confirmed
+O002914,ENG-02,TP,5.4,Hazard confirmed
+O002932,ENG-04,TP,6.1,Hazard confirmed
+O002937,ENG-04,FP,8.9,Painted road marking read as edge crack
+O002949,AN-02,TP,3.0,Hazard confirmed
+O002960,ENG-01,FP,6.5,Same item as previous frame
+O002961,ENG-01,TP,3.9,Hazard confirmed
+O002983,AN-03,TP,6.0,Hazard confirmed
+O002990,ENG-03,TP,4.7,Hazard confirmed
+O002992,ENG-01,TP,6.4,Hazard confirmed
+O002995,AN-04,TP,3.2,Hazard confirmed
+O003002,ENG-03,TP,5.2,Hazard confirmed
+O003005,ENG-01,TP,6.4,Hazard confirmed
+O003014,ENG-04,TP,4.5,Hazard confirmed
+O003027,ENG-01,TP,4.4,Hazard confirmed
+O003050,AN-06,TP,4.6,Hazard confirmed
+O003083,ENG-02,TP,3.7,Hazard confirmed
+O003088,ENG-04,TP,4.8,Hazard confirmed
+O003124,AN-02,TP,4.1,Hazard confirmed
+O003127,AN-02,TP,4.1,Hazard confirmed
+O003134,AN-02,TP,5.0,Hazard confirmed
+O003135,AN-03,TP,6.1,Hazard confirmed
+O003141,AN-04,TP,6.0,Hazard confirmed
+O003151,AN-06,FP,4.7,Fresh asphalt patch read as damage
+O003177,ENG-03,TP,4.5,Hazard confirmed
+O003197,AN-05,TP,4.9,Hazard confirmed
+O003202,AN-04,TP,6.2,Hazard confirmed
+O003211,AN-01,FP,3.3,"Reflection on wet surface, no water depth on LiDAR"
+O003218,AN-02,TP,6.2,Hazard confirmed
+O003219,ENG-01,FP,5.7,"Duplicate tile, hazard already logged"
+O003224,AN-06,FP,5.1,Nothing found on recheck
+O003229,AN-04,TP,2.1,Hazard confirmed
+O003238,AN-01,TP,6.1,Hazard confirmed
+O003239,AN-06,TP,6.5,Hazard confirmed
+O003240,AN-04,TP,2.8,Hazard confirmed
+O003248,AN-03,TP,6.3,Hazard confirmed
+O003249,AN-04,FP,4.9,"Unclear, road appears normal"
+O003264,AN-06,TP,4.7,Hazard confirmed
+O003273,ENG-04,TP,4.2,Hazard confirmed
+O003276,ENG-02,TP,3.6,Hazard confirmed
+O003295,ENG-03,TP,5.5,Hazard confirmed
+O003299,AN-04,TP,5.5,Hazard confirmed
+O003304,ENG-04,FP,5.8,"Fog patch, image unreadable"
+O003314,ENG-03,TP,5.6,Hazard confirmed
+O003316,ENG-03,TP,3.4,Hazard confirmed
+O003319,ENG-01,TP,2.6,Hazard confirmed
+O003336,AN-03,FP,5.9,"Reflection on wet surface, no water depth on LiDAR"
+O003351,AN-06,TP,8.7,Hazard confirmed
+O003354,AN-04,TP,3.6,Hazard confirmed
+O003357,ENG-01,TP,4.2,Hazard confirmed
+O003371,ENG-01,TP,4.9,Hazard confirmed
+O003373,AN-05,TP,4.2,Hazard confirmed
+O003376,AN-04,TP,7.0,Hazard confirmed
+O003380,AN-06,TP,6.2,Hazard confirmed
+O003390,AN-03,TP,4.3,Hazard confirmed
+O003405,ENG-04,TP,3.9,Hazard confirmed
+O003410,AN-04,TP,4.6,Hazard confirmed
+O003413,AN-01,TP,4.7,Hazard confirmed
+O003414,ENG-02,TP,4.4,Hazard confirmed
+O003417,AN-01,TP,5.2,Hazard confirmed
+O003420,ENG-03,TP,2.9,Hazard confirmed
+O003422,ENG-01,TP,5.1,Hazard confirmed
+O003425,ENG-03,TP,3.8,Hazard confirmed
+O003427,AN-04,TP,4.8,Hazard confirmed
+O003438,AN-03,TP,6.2,Hazard confirmed
+O003466,ENG-03,FP,6.2,Same item as previous frame
+O003471,ENG-03,TP,5.1,Hazard confirmed
+O003492,AN-04,TP,4.8,Hazard confirmed
+O003535,AN-03,TP,3.5,Hazard confirmed
+O003538,ENG-04,TP,5.0,Hazard confirmed
+O003566,ENG-03,TP,5.5,Hazard confirmed
+O003568,AN-05,TP,5.4,Hazard confirmed
+O003571,ENG-01,TP,8.1,Hazard confirmed
+O003595,ENG-02,TP,7.8,Hazard confirmed
+O003596,AN-02,TP,3.6,Hazard confirmed
+O003599,ENG-04,TP,4.6,Hazard confirmed
+O003609,ENG-02,TP,7.2,Hazard confirmed
+O003614,AN-02,TP,4.9,Hazard confirmed
+O003620,AN-03,TP,8.0,Hazard confirmed
+O003630,AN-06,FP,4.5,Fresh asphalt patch read as damage
+O003647,AN-01,TP,5.0,Hazard confirmed
+O003653,ENG-03,TP,3.5,Hazard confirmed
+O003656,ENG-01,TP,5.5,Hazard confirmed
+O003674,AN-04,TP,8.3,Hazard confirmed
+O003678,ENG-02,TP,3.7,Hazard confirmed
+O003705,ENG-03,TP,4.8,Hazard confirmed
+O003713,AN-01,TP,6.2,Hazard confirmed
+O003726,ENG-02,TP,5.2,Hazard confirmed
+O003734,AN-01,TP,3.5,Hazard confirmed
+O003751,AN-01,TP,5.7,Hazard confirmed
+O003767,AN-03,TP,4.6,Hazard confirmed
+O003769,ENG-03,TP,4.8,Hazard confirmed
+O003777,AN-03,TP,4.8,Hazard confirmed
+O003791,ENG-01,TP,4.8,Hazard confirmed
+O003794,AN-01,TP,3.3,Hazard confirmed
+O003798,ENG-04,TP,4.9,Hazard confirmed
+O003806,ENG-04,TP,6.0,Hazard confirmed
+O003819,ENG-01,TP,2.5,Hazard confirmed
+O003838,ENG-02,TP,3.3,Hazard confirmed
+O003840,AN-06,TP,5.6,Hazard confirmed
+O003844,AN-02,TP,7.1,Hazard confirmed
+O003845,AN-03,TP,5.2,Hazard confirmed
+O003847,AN-03,TP,4.8,Hazard confirmed
+O003854,AN-02,TP,5.3,Hazard confirmed
+O003872,ENG-01,TP,5.0,Hazard confirmed
+O003887,ENG-03,TP,3.4,Hazard confirmed
+O003890,AN-05,TP,4.3,Hazard confirmed
+O003894,AN-03,FP,6.5,Fresh asphalt patch read as damage
+O003900,AN-06,TP,3.9,Hazard confirmed
+O003909,ENG-02,TP,4.2,Hazard confirmed
+O003919,AN-03,TP,5.6,Hazard confirmed
+O003921,AN-02,TP,4.1,Hazard confirmed
+O003927,ENG-02,FP,3.8,"Duplicate tile, hazard already logged"
+O003948,AN-01,TP,3.0,Hazard confirmed
+O003956,AN-05,TP,4.1,Hazard confirmed
+O003964,ENG-02,TP,4.2,Hazard confirmed
+O004003,AN-03,TP,5.3,Hazard confirmed
+O004004,AN-02,FP,3.6,Same item as previous frame
+O004008,AN-03,FP,6.1,"Reflection on wet surface, no water depth on LiDAR"
+O004009,ENG-01,FP,3.6,Fresh asphalt patch read as damage
+O004056,AN-06,TP,5.7,Hazard confirmed
+O004086,AN-06,TP,4.1,Hazard confirmed
+O004105,AN-02,TP,2.4,Hazard confirmed
+O004114,ENG-03,TP,4.4,Hazard confirmed
+O004116,AN-06,TP,5.2,Hazard confirmed
+O004120,AN-05,TP,5.1,Hazard confirmed
+O004127,AN-02,TP,4.6,Hazard confirmed
+O004132,ENG-04,TP,6.5,Hazard confirmed
+O004141,ENG-03,TP,3.6,Hazard confirmed
+O004145,ENG-04,TP,4.0,Hazard confirmed
+O004160,AN-03,TP,5.4,Hazard confirmed
+O004170,ENG-03,TP,5.9,Hazard confirmed
+O004180,AN-05,FP,5.5,"Tree shadow across road, no debris"
+O004184,AN-02,TP,4.8,Hazard confirmed
+O004187,ENG-01,TP,4.9,Hazard confirmed
+O004190,AN-03,TP,5.0,Hazard confirmed
+O004224,AN-03,TP,6.7,Hazard confirmed
+O004240,ENG-04,FP,3.5,"Wet asphalt sheen, road dry underneath"
+O004252,AN-04,TP,3.9,Hazard confirmed
+O004256,AN-05,FP,5.6,"Reflection on wet surface, no water depth on LiDAR"
+O004259,AN-02,FP,4.0,Shadow line read as edge drop
+O004263,AN-03,TP,5.7,Hazard confirmed
+O004268,ENG-03,TP,4.1,Hazard confirmed
+O004272,ENG-01,TP,5.1,Hazard confirmed
+O004278,AN-03,FP,6.6,"Haze obscured frame, nothing found on recheck"
+O004322,AN-04,TP,4.1,Hazard confirmed
+O004346,AN-04,TP,6.0,Hazard confirmed
+O004354,ENG-03,TP,7.2,Hazard confirmed
+O004369,ENG-03,FP,4.8,"Unclear, road appears normal"
+O004424,AN-02,TP,6.6,Hazard confirmed
+O004426,AN-02,FP,5.7,Painted road marking read as edge crack
+O004427,ENG-01,TP,3.1,Hazard confirmed
+O004443,ENG-04,TP,6.2,Hazard confirmed
+O004449,ENG-02,TP,4.7,Hazard confirmed
+O004453,AN-04,FP,5.0,Painted road marking read as edge crack
+O004469,ENG-01,TP,4.5,Hazard confirmed
+O004472,AN-03,TP,7.0,Hazard confirmed
+O004496,ENG-02,TP,6.4,Hazard confirmed
+O004510,AN-02,TP,5.8,Hazard confirmed
+O004513,ENG-01,FP,5.2,"Natural rock outcrop beside road, not debris"
+O004528,ENG-01,TP,6.8,Hazard confirmed
+O004534,ENG-02,TP,4.4,Hazard confirmed
+O004564,AN-06,TP,4.2,Hazard confirmed
+O004575,ENG-02,TP,3.9,Hazard confirmed
+O004576,ENG-02,TP,8.2,Hazard confirmed
+O004586,ENG-01,TP,5.7,Hazard confirmed
+O004589,AN-03,TP,3.8,Hazard confirmed
+O004594,AN-01,TP,4.2,Hazard confirmed
+O004595,AN-01,TP,4.4,Hazard confirmed
+O004607,ENG-02,TP,4.3,Hazard confirmed
+O004622,ENG-02,TP,6.1,Hazard confirmed
+O004629,ENG-04,TP,5.1,Hazard confirmed
+O004640,AN-04,TP,6.3,Hazard confirmed
+O004647,ENG-01,TP,6.2,Hazard confirmed
+O004652,ENG-04,TP,4.7,Hazard confirmed
+O004661,ENG-01,TP,4.1,Hazard confirmed
+O004682,AN-05,TP,4.5,Hazard confirmed
+O004691,AN-05,FP,5.3,Painted road marking read as edge crack
+O004692,ENG-04,TP,3.3,Hazard confirmed
+O004696,ENG-03,TP,5.6,Hazard confirmed
+O004713,AN-04,TP,3.3,Hazard confirmed
+O004737,AN-01,FP,5.2,Nothing found on recheck
+O004754,AN-01,TP,3.1,Hazard confirmed
+O004755,AN-05,FP,6.1,"Reflection on wet surface, no water depth on LiDAR"
+O004759,AN-01,TP,4.4,Hazard confirmed
+O004764,AN-06,TP,5.5,Hazard confirmed
+O004765,AN-01,TP,5.0,Hazard confirmed
+O004827,ENG-04,TP,4.8,Hazard confirmed
+O004829,AN-02,TP,3.8,Hazard confirmed
+O004833,AN-02,TP,4.6,Hazard confirmed
+O004834,ENG-03,TP,3.6,Hazard confirmed
+O004837,ENG-03,TP,3.5,Hazard confirmed
+O004856,AN-05,TP,4.6,Hazard confirmed
+O004882,ENG-03,TP,5.4,Hazard confirmed
+O004889,ENG-03,FP,4.9,Shadow line read as edge drop
+O004897,AN-01,TP,7.1,Hazard confirmed
+O004900,ENG-03,TP,4.2,Hazard confirmed
+O004910,ENG-04,FP,6.3,Fresh asphalt patch read as damage
+O004927,AN-06,TP,4.2,Hazard confirmed
+O004941,AN-04,TP,2.0,Hazard confirmed
+O004949,AN-05,TP,4.5,Hazard confirmed
+O004970,AN-03,TP,6.9,Hazard confirmed
+O004971,ENG-02,TP,3.4,Hazard confirmed
+O004980,AN-03,TP,6.8,Hazard confirmed
+O004997,AN-03,TP,5.7,Hazard confirmed
+O004999,AN-03,TP,6.2,Hazard confirmed
+O005008,AN-05,TP,4.4,Hazard confirmed
+O005025,AN-04,TP,6.1,Hazard confirmed
+O005027,AN-06,TP,4.7,Hazard confirmed
+O005035,AN-05,FP,4.1,"Wet asphalt sheen, road dry underneath"
+O005038,ENG-03,FP,6.1,"Unclear, road appears normal"
+O005047,ENG-02,TP,6.2,Hazard confirmed
+O005048,AN-05,FP,2.4,"Wet asphalt sheen, road dry underneath"
+O005062,AN-03,TP,4.9,Hazard confirmed
+O005086,AN-03,TP,6.4,Hazard confirmed
+O005090,ENG-01,TP,2.6,Hazard confirmed
+O005098,ENG-02,TP,5.2,Hazard confirmed
+O005100,ENG-02,TP,6.6,Hazard confirmed
+O005144,ENG-02,TP,4.0,Hazard confirmed
+O005181,ENG-03,TP,4.5,Hazard confirmed
+O005183,AN-05,FP,5.1,"Fog patch, image unreadable"
+O005187,AN-01,TP,4.5,Hazard confirmed
+O005188,AN-05,TP,4.0,Hazard confirmed
+O005215,ENG-04,TP,2.9,Hazard confirmed
+O005253,AN-02,TP,5.0,Hazard confirmed
+O005260,AN-05,TP,6.4,Hazard confirmed
+O005269,ENG-01,FP,4.2,"Unclear, road appears normal"
+O005285,ENG-03,FP,6.4,"Unclear, road appears normal"
+O005297,AN-05,TP,5.0,Hazard confirmed
+O005298,AN-06,TP,4.2,Hazard confirmed
+O005305,ENG-04,TP,4.8,Hazard confirmed
+O005319,ENG-02,TP,6.2,Hazard confirmed
+O005326,ENG-02,TP,4.5,Hazard confirmed
+O005352,ENG-02,TP,4.2,Hazard confirmed
+O005371,ENG-01,TP,4.8,Hazard confirmed
+O005376,ENG-02,TP,6.8,Hazard confirmed
+O005400,AN-01,TP,5.9,Hazard confirmed
+O005408,AN-05,TP,6.5,Hazard confirmed
+O005428,AN-03,TP,3.4,Hazard confirmed
+O005431,ENG-04,TP,3.5,Hazard confirmed
+O005441,AN-03,TP,4.5,Hazard confirmed
+O005454,ENG-01,TP,4.9,Hazard confirmed
+O005492,AN-03,TP,2.6,Hazard confirmed
+O005493,AN-05,TP,4.7,Hazard confirmed
+O005497,AN-06,TP,6.1,Hazard confirmed
+O005498,AN-06,TP,5.2,Hazard confirmed
+O005499,AN-06,TP,3.3,Hazard confirmed
+O005514,AN-03,TP,4.5,Hazard confirmed
+O005530,AN-06,TP,3.7,Hazard confirmed
+O005537,AN-05,TP,4.5,Hazard confirmed
+O005553,ENG-04,TP,5.5,Hazard confirmed
+O005554,AN-06,TP,4.7,Hazard confirmed
+O005559,AN-03,TP,3.4,Hazard confirmed
+O005569,AN-01,TP,6.9,Hazard confirmed
+O005570,AN-02,TP,4.6,Hazard confirmed
+O005575,ENG-01,TP,4.8,Hazard confirmed
+O005584,AN-01,TP,5.0,Hazard confirmed
+O005586,AN-04,FP,8.4,"Unclear, road appears normal"
+O005588,ENG-01,TP,5.8,Hazard confirmed
+O005613,AN-05,FP,4.8,Fresh asphalt patch read as damage
+O005626,AN-05,TP,4.7,Hazard confirmed
+O005697,AN-03,FP,3.2,Painted road marking read as edge crack
+O005703,AN-04,TP,4.7,Hazard confirmed
+O005708,ENG-03,TP,4.5,Hazard confirmed
+O005711,AN-05,TP,5.2,Hazard confirmed
+O005717,AN-06,FP,3.2,"Wet asphalt sheen, road dry underneath"
+O005730,AN-03,TP,5.7,Hazard confirmed
+O005732,AN-05,FP,6.6,"Tree shadow across road, no debris"
+O005738,ENG-03,FP,6.0,"Fog patch, image unreadable"
+O005739,ENG-04,FP,7.1,"Wet asphalt sheen, road dry underneath"
+O005768,AN-04,TP,5.2,Hazard confirmed
+O005781,ENG-02,FP,3.5,"Reflection on wet surface, no water depth on LiDAR"
+O005795,AN-03,TP,5.6,Hazard confirmed
+O005807,ENG-01,TP,5.2,Hazard confirmed
+O005822,AN-04,TP,5.5,Hazard confirmed
+O005824,AN-02,TP,2.0,Hazard confirmed
+O005825,ENG-02,TP,4.7,Hazard confirmed
+O005843,AN-06,TP,6.1,Hazard confirmed
+O005850,ENG-03,TP,7.8,Hazard confirmed
+O005851,AN-03,TP,5.5,Hazard confirmed
+O005857,ENG-02,TP,4.5,Hazard confirmed
+O005874,AN-02,FP,4.7,"Reflection on wet surface, no water depth on LiDAR"
+O005883,ENG-02,FP,5.8,"Tree shadow across road, no debris"
+O005899,AN-01,TP,6.5,Hazard confirmed
+O005907,AN-02,FP,4.4,"Wet asphalt sheen, road dry underneath"
+O005910,ENG-03,FP,4.6,Fresh asphalt patch read as damage
+O005932,AN-06,FP,5.1,"Wet asphalt sheen, road dry underneath"
+O005933,AN-03,TP,4.5,Hazard confirmed
+O005950,ENG-04,TP,4.8,Hazard confirmed
+O005951,ENG-02,TP,6.4,Hazard confirmed
+O005955,ENG-01,FP,5.1,"Reflection on wet surface, no water depth on LiDAR"
+O005961,AN-06,TP,5.4,Hazard confirmed
+O005962,AN-06,TP,4.6,Hazard confirmed
+O005988,AN-04,TP,3.9,Hazard confirmed
+O005990,AN-01,TP,6.0,Hazard confirmed
+O005996,AN-04,TP,5.6,Hazard confirmed
+O006020,ENG-03,FP,6.3,Shadow line read as edge drop
+O006046,ENG-02,TP,6.1,Hazard confirmed
+O006100,ENG-01,FP,4.8,Fresh asphalt patch read as damage
+O006125,ENG-04,TP,4.1,Hazard confirmed
+O006132,AN-03,TP,5.5,Hazard confirmed
+O006137,ENG-01,TP,3.1,Hazard confirmed
+O006175,ENG-03,TP,4.0,Hazard confirmed
+O006206,AN-06,TP,3.3,Hazard confirmed
+O006234,AN-04,TP,3.0,Hazard confirmed
+O006235,AN-02,TP,5.5,Hazard confirmed
+O006238,AN-03,FP,6.6,Same item as previous frame
+O006267,AN-04,TP,7.0,Hazard confirmed
+O006291,ENG-01,TP,4.4,Hazard confirmed
+O006310,ENG-03,TP,4.7,Hazard confirmed
+O006323,ENG-03,TP,4.7,Hazard confirmed
+O006326,ENG-04,TP,4.4,Hazard confirmed
+O006328,AN-06,TP,7.3,Hazard confirmed
+O006345,ENG-02,TP,4.1,Hazard confirmed
+O006353,AN-05,FP,5.1,"Duplicate tile, hazard already logged"
+O006363,ENG-02,FP,4.8,"Natural rock outcrop beside road, not debris"
+O006369,AN-01,TP,8.1,Hazard confirmed
+O006370,AN-05,TP,2.2,Hazard confirmed
+O006384,ENG-01,TP,4.5,Hazard confirmed
+O006385,AN-03,TP,4.1,Hazard confirmed
+O006392,AN-05,TP,6.1,Hazard confirmed
+O006393,ENG-03,FP,4.0,"Unclear, road appears normal"
+O006395,AN-01,TP,4.0,Hazard confirmed
+O006397,AN-01,FP,4.3,Painted road marking read as edge crack
+O006427,ENG-01,TP,3.4,Hazard confirmed
+O006443,AN-01,TP,4.8,Hazard confirmed
+O006446,ENG-01,TP,5.6,Hazard confirmed
+O006447,ENG-01,TP,4.7,Hazard confirmed
+O006461,AN-06,TP,6.9,Hazard confirmed
+O006466,ENG-02,TP,5.4,Hazard confirmed
+O006467,ENG-04,TP,4.8,Hazard confirmed
+O006474,AN-03,TP,4.0,Hazard confirmed
+O006478,AN-02,TP,5.5,Hazard confirmed
+O006517,ENG-04,FP,7.5,"Wet asphalt sheen, road dry underneath"
+O006519,AN-04,TP,4.2,Hazard confirmed
+O006523,AN-02,FP,5.9,"Tree shadow across road, no debris"
+O006532,ENG-01,FP,3.9,Fresh asphalt patch read as damage
+O006546,AN-06,FP,6.1,"Wet asphalt sheen, road dry underneath"
+O006552,AN-01,TP,4.8,Hazard confirmed
+O006563,AN-05,FP,8.0,"Reflection on wet surface, no water depth on LiDAR"
+O006583,AN-04,TP,5.5,Hazard confirmed
+O006587,ENG-03,TP,5.2,Hazard confirmed
+O006592,AN-04,FP,4.3,Shadow line read as edge drop
+O006594,ENG-03,FP,6.2,Fresh asphalt patch read as damage
+O006606,ENG-02,TP,6.6,Hazard confirmed
+O006619,ENG-02,FP,5.4,"Wet asphalt sheen, road dry underneath"
+O006626,AN-03,TP,4.3,Hazard confirmed
+O006628,AN-05,TP,4.5,Hazard confirmed
+O006636,AN-06,FP,5.5,Fresh asphalt patch read as damage
+O006642,AN-05,TP,5.5,Hazard confirmed
+O006648,ENG-04,TP,4.3,Hazard confirmed
+O006655,ENG-04,FP,6.7,Fresh asphalt patch read as damage
+O006667,ENG-01,TP,6.1,Hazard confirmed
+O006684,ENG-04,TP,3.5,Hazard confirmed
+O006691,AN-01,TP,5.1,Hazard confirmed
+O006702,ENG-02,TP,4.3,Hazard confirmed
+O006707,AN-01,TP,3.9,Hazard confirmed
+O006727,ENG-02,TP,6.0,Hazard confirmed
+O006754,AN-05,TP,6.8,Hazard confirmed
+O006759,AN-04,FP,5.4,"Wet asphalt sheen, road dry underneath"
+O006761,AN-04,TP,4.8,Hazard confirmed
+O006762,ENG-03,FP,5.4,"Wet asphalt sheen, road dry underneath"
+O006772,ENG-03,FP,3.4,"Tree shadow across road, no debris"
+O006778,ENG-04,TP,5.9,Hazard confirmed
+O006780,AN-02,FP,6.1,Shadow line read as edge drop
+O006785,AN-06,FP,5.2,"Wet asphalt sheen, road dry underneath"
+O006790,ENG-01,TP,4.3,Hazard confirmed
+O006809,AN-02,TP,6.2,Hazard confirmed
+O006819,AN-01,TP,5.1,Hazard confirmed
+O006833,AN-06,FP,6.8,"Wet asphalt sheen, road dry underneath"
+O006850,AN-02,TP,5.6,Hazard confirmed
+O006857,ENG-04,TP,3.6,Hazard confirmed
+O006868,ENG-04,FP,4.2,"Reflection on wet surface, no water depth on LiDAR"
+O006884,AN-03,FP,5.0,"Unclear, road appears normal"
+O006906,AN-04,TP,3.5,Hazard confirmed
+O006972,AN-04,TP,6.6,Hazard confirmed
+O006978,AN-04,TP,5.1,Hazard confirmed
+O006991,ENG-01,TP,5.3,Hazard confirmed
+O006994,ENG-02,TP,5.1,Hazard confirmed
+O006998,ENG-04,TP,6.1,Hazard confirmed
+O007000,AN-04,FP,5.0,Fresh asphalt patch read as damage
+O007019,ENG-03,TP,6.5,Hazard confirmed
+O007029,ENG-02,FP,6.4,Fresh asphalt patch read as damage
+O007031,AN-02,TP,4.1,Hazard confirmed
+O007037,ENG-02,TP,4.3,Hazard confirmed
+O007054,AN-06,FP,7.2,Fresh asphalt patch read as damage
+O007058,AN-02,FP,6.2,Fresh asphalt patch read as damage
+O007066,AN-02,FP,2.0,"Duplicate tile, hazard already logged"
+O007068,ENG-03,FP,4.4,"Natural rock outcrop beside road, not debris"
+O007073,AN-02,TP,7.5,Hazard confirmed
+O007079,ENG-04,TP,4.3,Hazard confirmed
+O007096,ENG-01,TP,4.5,Hazard confirmed
+O007100,ENG-01,TP,5.8,Hazard confirmed
+O007148,AN-05,TP,7.0,Hazard confirmed
+O007158,AN-01,TP,6.1,Hazard confirmed
+O007161,AN-01,TP,5.1,Hazard confirmed
+O007163,ENG-01,TP,5.3,Hazard confirmed
+O007189,AN-05,TP,4.1,Hazard confirmed
+O007207,ENG-01,TP,5.4,Hazard confirmed
+O007251,ENG-03,TP,4.0,Hazard confirmed
+O007265,AN-02,FP,3.5,Same item as previous frame
+O007283,ENG-02,TP,5.4,Hazard confirmed
+O007317,AN-02,FP,4.3,Painted road marking read as edge crack
+O007323,AN-06,TP,4.9,Hazard confirmed
+O007331,ENG-02,FP,4.2,Shadow line read as edge drop
+O007342,AN-03,TP,4.5,Hazard confirmed
+O007376,AN-03,FP,5.4,Same item as previous frame
+O007381,AN-02,FP,5.9,Shadow line read as edge drop
+O007424,AN-04,TP,6.5,Hazard confirmed
+O007443,AN-02,FP,5.8,Painted road marking read as edge crack
+O007469,AN-03,TP,6.8,Hazard confirmed
+O007498,ENG-03,TP,3.4,Hazard confirmed
+O007503,ENG-01,TP,4.6,Hazard confirmed
+O007542,ENG-04,FP,4.1,"Reflection on wet surface, no water depth on LiDAR"
+O007547,ENG-04,TP,3.7,Hazard confirmed
+O007553,AN-04,TP,4.0,Hazard confirmed
+O007554,AN-01,TP,4.7,Hazard confirmed
+O007587,ENG-04,FP,4.4,Same item as previous frame
+O007592,AN-06,TP,5.0,Hazard confirmed
+O007610,AN-03,TP,4.3,Hazard confirmed
+O007617,AN-02,TP,6.1,Hazard confirmed
+O007631,ENG-01,FP,2.6,"Reflection on wet surface, no water depth on LiDAR"
+O007634,ENG-01,TP,7.6,Hazard confirmed
+O007647,ENG-01,TP,4.5,Hazard confirmed
+O007668,ENG-02,TP,4.7,Hazard confirmed
+O007670,ENG-01,FP,6.0,"Tree shadow across road, no debris"
+O007677,ENG-04,FP,3.4,"Wet asphalt sheen, road dry underneath"
+O007679,ENG-04,TP,3.9,Hazard confirmed
+O007680,AN-01,FP,5.4,"Reflection on wet surface, no water depth on LiDAR"
+O007691,AN-05,FP,4.1,Shadow line read as edge drop
+O007704,ENG-01,TP,4.4,Hazard confirmed
+O007706,AN-04,TP,5.9,Hazard confirmed
+O007709,ENG-02,TP,6.5,Hazard confirmed
+O007718,AN-02,TP,5.1,Hazard confirmed
+O007721,AN-05,TP,6.5,Hazard confirmed
+O007728,AN-01,TP,5.1,Hazard confirmed
+O007769,AN-03,TP,4.0,Hazard confirmed
+O007803,ENG-03,FP,5.2,Fresh asphalt patch read as damage
+O007849,ENG-04,FP,4.6,Painted road marking read as edge crack
+O007851,AN-04,TP,2.5,Hazard confirmed
+O007852,ENG-01,FP,5.1,Painted road marking read as edge crack
+O007878,ENG-02,TP,2.0,Hazard confirmed
+O007890,ENG-01,TP,5.7,Hazard confirmed
+O007902,AN-02,TP,6.9,Hazard confirmed
+O007924,AN-01,TP,6.6,Hazard confirmed
+O007927,ENG-01,FP,3.9,Fresh asphalt patch read as damage
+O007951,ENG-01,TP,6.9,Hazard confirmed
+O007954,ENG-04,TP,4.5,Hazard confirmed
+O007956,AN-02,TP,2.0,Hazard confirmed
+O007957,AN-04,FP,5.0,Nothing found on recheck
+O007980,AN-06,TP,4.8,Hazard confirmed
+O007983,AN-03,TP,4.9,Hazard confirmed
+O008004,ENG-01,TP,4.1,Hazard confirmed
+O008034,ENG-03,TP,6.6,Hazard confirmed
+O008038,ENG-01,TP,3.9,Hazard confirmed
+O008039,AN-03,FP,4.9,Nothing found on recheck
+O008080,AN-06,TP,3.8,Hazard confirmed
+O008090,ENG-02,TP,4.2,Hazard confirmed
+O008091,AN-01,FP,4.1,Nothing found on recheck
+O008100,AN-05,TP,3.1,Hazard confirmed
+O008131,ENG-04,TP,5.8,Hazard confirmed
+O008144,AN-01,TP,5.9,Hazard confirmed
+O008150,AN-04,TP,4.9,Hazard confirmed
+O008171,AN-05,TP,5.9,Hazard confirmed
+O008177,ENG-04,TP,5.1,Hazard confirmed
+O008184,AN-02,FP,5.6,Fresh asphalt patch read as damage
+O008206,ENG-02,TP,4.7,Hazard confirmed
+O008207,ENG-02,FP,3.7,"Reflection on wet surface, no water depth on LiDAR"
+O008208,ENG-02,FP,5.7,Fresh asphalt patch read as damage
+O008212,AN-04,TP,3.9,Hazard confirmed
+O008229,ENG-01,FP,4.3,"Reflection on wet surface, no water depth on LiDAR"
+O008230,ENG-01,FP,3.2,Shadow line read as edge drop
+O008239,AN-04,FP,4.3,Painted road marking read as edge crack
+O008242,ENG-01,FP,2.7,"Reflection on wet surface, no water depth on LiDAR"
+O008268,ENG-01,TP,5.5,Hazard confirmed
+O008291,ENG-01,TP,3.6,Hazard confirmed
+O008294,AN-01,TP,6.5,Hazard confirmed
+O008315,AN-05,TP,8.9,Hazard confirmed
+O008327,AN-01,TP,4.8,Hazard confirmed
+O008354,AN-02,FP,4.9,"Duplicate tile, hazard already logged"
+O008364,AN-04,TP,6.6,Hazard confirmed
+O008370,AN-01,TP,5.7,Hazard confirmed
+O008377,ENG-04,FP,2.8,"Old rockfall, already cleared, road open"
+O008383,ENG-03,TP,2.7,Hazard confirmed
+O008386,AN-02,FP,5.6,"Wet asphalt sheen, road dry underneath"
+O008399,AN-03,FP,4.7,"Reflection on wet surface, no water depth on LiDAR"
+O008402,ENG-04,TP,3.9,Hazard confirmed
+O008410,AN-03,TP,6.7,Hazard confirmed
+O008411,AN-06,TP,6.3,Hazard confirmed
+O008419,AN-03,FP,6.5,"Fog patch, image unreadable"
+O008433,ENG-01,FP,6.6,"Wet asphalt sheen, road dry underneath"
+O008437,ENG-04,TP,3.9,Hazard confirmed
+O008447,AN-04,TP,5.5,Hazard confirmed
+O008455,ENG-03,FP,2.0,"Reflection on wet surface, no water depth on LiDAR"
+O008456,AN-05,FP,4.9,"Reflection on wet surface, no water depth on LiDAR"
+O008460,AN-06,FP,6.3,"Reflection on wet surface, no water depth on LiDAR"
+O008465,AN-03,FP,3.9,"Haze obscured frame, nothing found on recheck"
+O008466,ENG-04,FP,7.0,"Reflection on wet surface, no water depth on LiDAR"
+O008468,ENG-01,TP,5.4,Hazard confirmed
+O008471,AN-04,FP,2.9,"Haze obscured frame, nothing found on recheck"
+O008473,AN-02,FP,4.6,"Wet asphalt sheen, road dry underneath"
+O008480,ENG-01,FP,5.9,"Haze obscured frame, nothing found on recheck"
+O008482,ENG-02,FP,6.4,"Reflection on wet surface, no water depth on LiDAR"
+O008499,ENG-01,TP,6.2,Hazard confirmed
+O008510,ENG-03,FP,5.4,Same item as previous frame
+O008525,ENG-04,FP,7.1,Same item as previous frame
+O008549,AN-04,TP,4.0,Hazard confirmed
+O008560,ENG-03,TP,5.7,Hazard confirmed
+O008561,ENG-01,TP,5.4,Hazard confirmed
+O008573,AN-02,TP,5.5,Hazard confirmed
+O008580,AN-05,FP,2.5,"Reflection on wet surface, no water depth on LiDAR"
+O008629,AN-05,TP,6.6,Hazard confirmed
+O008632,ENG-04,FP,7.5,Painted road marking read as edge crack
+O008646,ENG-03,FP,4.4,Nothing found on recheck
+O008704,AN-06,FP,5.3,"Duplicate tile, hazard already logged"
+O008714,ENG-02,FP,5.2,Painted road marking read as edge crack
+O008726,AN-06,TP,4.6,Hazard confirmed
+O008744,AN-06,TP,6.6,Hazard confirmed
+O008768,ENG-02,TP,5.7,Hazard confirmed
+O008769,AN-01,FP,4.6,Painted road marking read as edge crack
+O008805,AN-06,TP,6.8,Hazard confirmed
+O008808,ENG-03,TP,6.0,Hazard confirmed
+O008813,ENG-04,TP,4.7,Hazard confirmed
+O008833,ENG-03,TP,3.7,Hazard confirmed
+O008837,AN-03,TP,5.8,Hazard confirmed
+O008854,ENG-04,TP,4.3,Hazard confirmed
+O008877,AN-05,TP,6.4,Hazard confirmed
+O008891,AN-06,TP,4.7,Hazard confirmed
+O008919,AN-06,TP,4.7,Hazard confirmed
+O008924,ENG-02,TP,7.0,Hazard confirmed
+O008993,AN-02,TP,4.6,Hazard confirmed
+O009015,AN-02,TP,8.3,Hazard confirmed
+O009029,ENG-01,FP,4.3,Painted road marking read as edge crack
+O009040,ENG-03,FP,5.8,Nothing found on recheck
+O009052,ENG-03,FP,6.3,Painted road marking read as edge crack
+O009065,ENG-01,TP,5.2,Hazard confirmed
+O009079,ENG-01,FP,4.8,Fresh asphalt patch read as damage
+O009091,AN-01,FP,4.4,"Reflection on wet surface, no water depth on LiDAR"
+O009097,AN-05,FP,5.2,"Reflection on wet surface, no water depth on LiDAR"
+O009134,ENG-03,TP,5.3,Hazard confirmed
+O009138,AN-03,FP,3.6,Fresh asphalt patch read as damage
+O009167,ENG-04,FP,2.4,"Reflection on wet surface, no water depth on LiDAR"
+O009173,ENG-01,TP,4.8,Hazard confirmed
+O009186,AN-01,TP,4.9,Hazard confirmed
+O009190,AN-02,TP,3.6,Hazard confirmed
+O009196,AN-02,FP,5.8,"Fog patch, image unreadable"
+O009217,ENG-01,TP,7.6,Hazard confirmed
+O009226,ENG-01,TP,5.8,Hazard confirmed
+O009230,ENG-04,FP,5.6,Painted road marking read as edge crack
+O009234,AN-03,TP,3.6,Hazard confirmed
+O009237,AN-02,FP,5.1,"Wet asphalt sheen, road dry underneath"
+O009253,ENG-03,TP,5.2,Hazard confirmed
+O009263,ENG-02,FP,4.6,"Reflection on wet surface, no water depth on LiDAR"
+O009274,ENG-03,TP,3.6,Hazard confirmed
+O009282,AN-02,FP,4.9,Painted road marking read as edge crack
+O009290,AN-01,TP,7.0,Hazard confirmed
+O009301,AN-03,FP,3.8,"Tree shadow across road, no debris"
+O009310,ENG-01,TP,4.7,Hazard confirmed
+O009325,AN-01,TP,5.1,Hazard confirmed
+O009351,AN-02,FP,4.8,"Fog patch, image unreadable"
+O009367,ENG-01,TP,4.4,Hazard confirmed
+O009391,ENG-03,TP,6.6,Hazard confirmed
+O009401,AN-04,FP,5.9,"Fog patch, image unreadable"
+O009412,ENG-01,FP,6.3,"Tree shadow across road, no debris"
+O009415,AN-01,TP,7.4,Hazard confirmed
+O009438,AN-06,TP,5.6,Hazard confirmed
+O009448,AN-05,TP,5.5,Hazard confirmed
+O009478,ENG-03,TP,5.6,Hazard confirmed
+O009486,ENG-01,TP,4.9,Hazard confirmed
+O009535,ENG-04,FP,3.9,Nothing found on recheck
+O009561,AN-03,TP,4.0,Hazard confirmed
+O009603,ENG-04,TP,6.5,Hazard confirmed
+O009619,AN-03,TP,4.0,Hazard confirmed
+O009643,AN-02,FP,5.1,Nothing found on recheck
+O009652,AN-06,TP,5.8,Hazard confirmed
+O009658,AN-03,TP,2.8,Hazard confirmed
+O009674,AN-03,TP,4.0,Hazard confirmed
+O009686,AN-01,FP,7.0,Same item as previous frame
+O009702,AN-01,FP,4.2,Same item as previous frame
+O009719,ENG-04,TP,4.9,Hazard confirmed
+O009733,ENG-01,TP,8.2,Hazard confirmed
+O009735,ENG-02,TP,3.3,Hazard confirmed
+O009774,AN-06,TP,4.6,Hazard confirmed
+O009785,AN-06,TP,4.6,Hazard confirmed
+O009791,AN-02,TP,6.0,Hazard confirmed
+O009799,ENG-02,TP,5.5,Hazard confirmed
+O009861,ENG-02,TP,4.5,Hazard confirmed
+O009874,ENG-04,TP,4.5,Hazard confirmed
+O009911,AN-04,FP,4.9,"Reflection on wet surface, no water depth on LiDAR"
+O009912,ENG-03,TP,6.9,Hazard confirmed
+O009934,ENG-04,TP,4.8,Hazard confirmed
+O009940,ENG-04,FP,7.4,"Tree shadow across road, no debris"
+O009976,ENG-04,FP,6.3,Painted road marking read as edge crack
+O009979,ENG-01,FP,6.0,Shadow line read as edge drop
+O009981,ENG-02,TP,7.1,Hazard confirmed
+O010013,AN-01,TP,5.3,Hazard confirmed
+O010032,AN-03,TP,3.5,Hazard confirmed
+O010039,ENG-04,TP,3.3,Hazard confirmed
+O010040,AN-01,FP,7.3,"Reflection on wet surface, no water depth on LiDAR"
+O010053,AN-04,TP,2.6,Hazard confirmed
+O010075,AN-05,TP,6.6,Hazard confirmed
+O010125,AN-04,FP,2.6,Painted road marking read as edge crack
+O010127,AN-06,TP,6.3,Hazard confirmed
+O010147,ENG-03,FP,2.9,"Fog patch, image unreadable"
+O010156,AN-06,FP,5.4,"Tree shadow across road, no debris"
+O010163,ENG-04,FP,4.0,"Haze obscured frame, nothing found on recheck"
+O010168,AN-02,TP,8.0,Hazard confirmed
+O010187,AN-05,TP,6.4,Hazard confirmed
+O010227,AN-03,FP,4.6,"Reflection on wet surface, no water depth on LiDAR"
+O010232,ENG-01,TP,4.5,Hazard confirmed
+O010235,AN-06,TP,3.2,Hazard confirmed
+O010236,AN-04,FP,5.3,Shadow line read as edge drop
+O010247,AN-05,FP,6.0,"Wet asphalt sheen, road dry underneath"
+O010248,ENG-04,TP,5.0,Hazard confirmed
+O010250,ENG-01,FP,3.1,"Haze obscured frame, nothing found on recheck"
+O010256,ENG-04,TP,4.9,Hazard confirmed
+O010273,ENG-01,TP,4.1,Hazard confirmed
+O010302,AN-04,FP,5.4,Shadow line read as edge drop
+O010303,AN-04,FP,5.3,Painted road marking read as edge crack
+O010364,ENG-02,TP,6.6,Hazard confirmed
+O010406,AN-04,FP,3.2,Painted road marking read as edge crack
+O010407,AN-06,TP,2.3,Hazard confirmed
+O010419,AN-02,TP,4.8,Hazard confirmed
+O010424,AN-06,FP,3.9,Nothing found on recheck
+O010463,AN-01,FP,4.5,Fresh asphalt patch read as damage
+O010469,ENG-04,FP,3.5,Same item as previous frame
+O010496,AN-03,TP,5.8,Hazard confirmed
+O010525,AN-05,TP,4.8,Hazard confirmed
+O010528,ENG-03,TP,6.2,Hazard confirmed
+O010566,ENG-03,TP,4.0,Hazard confirmed
+O010602,AN-05,TP,3.6,Hazard confirmed
+O010614,ENG-01,TP,6.4,Hazard confirmed
+O010616,ENG-03,TP,5.8,Hazard confirmed
+O010643,ENG-03,TP,4.8,Hazard confirmed
+O010647,ENG-02,TP,3.7,Hazard confirmed
+O010650,AN-02,FP,5.5,Fresh asphalt patch read as damage
+O010663,AN-06,TP,5.9,Hazard confirmed
+O010713,AN-01,TP,4.8,Hazard confirmed
+O010724,AN-04,FP,5.1,Fresh asphalt patch read as damage
+O010727,AN-02,TP,7.8,Hazard confirmed
+O010754,AN-01,TP,4.1,Hazard confirmed
+O010761,AN-01,TP,4.3,Hazard confirmed
+O010802,AN-01,TP,4.8,Hazard confirmed
+O010809,ENG-01,FP,5.1,Fresh asphalt patch read as damage
+O010867,AN-05,TP,5.9,Hazard confirmed
+O010893,AN-05,TP,5.7,Hazard confirmed
+O010911,AN-03,TP,5.1,Hazard confirmed
+O010913,AN-04,TP,6.4,Hazard confirmed
+O010937,AN-01,FP,6.2,"Natural rock outcrop beside road, not debris"
+O010955,AN-02,TP,6.5,Hazard confirmed
+O010956,AN-04,TP,6.2,Hazard confirmed
+O010965,AN-02,TP,5.9,Hazard confirmed
+O010989,AN-02,FP,2.0,Nothing found on recheck
+O011017,ENG-04,TP,6.5,Hazard confirmed
+O011032,ENG-01,TP,6.1,Hazard confirmed
+O011035,ENG-03,TP,2.0,Hazard confirmed
+O011038,AN-01,FP,7.3,Shadow line read as edge drop
+O011039,AN-06,TP,6.5,Hazard confirmed
+O011051,AN-06,TP,6.9,Hazard confirmed
+O011058,ENG-02,TP,6.9,Hazard confirmed
+O011093,ENG-03,TP,5.3,Hazard confirmed
+O011107,AN-04,TP,5.0,Hazard confirmed
+O011122,AN-04,FP,5.2,Painted road marking read as edge crack
+O011176,AN-05,FP,8.2,Fresh asphalt patch read as damage
+O011206,ENG-03,FP,3.8,Nothing found on recheck
+O011209,ENG-04,TP,6.0,Hazard confirmed
+O011223,ENG-03,TP,3.9,Hazard confirmed
+O011318,AN-06,TP,5.8,Hazard confirmed
+O011322,AN-01,TP,5.3,Hazard confirmed
+O011336,AN-02,TP,4.7,Hazard confirmed
+O011337,AN-02,TP,5.1,Hazard confirmed
+O011352,ENG-02,FP,4.1,"Old rockfall, already cleared, road open"
+O011377,ENG-03,TP,4.9,Hazard confirmed
+O011381,AN-04,TP,4.9,Hazard confirmed
+O011403,AN-06,TP,7.5,Hazard confirmed
+O011410,ENG-03,TP,3.5,Hazard confirmed
+O011416,ENG-01,TP,6.7,Hazard confirmed
+O011428,AN-05,FP,6.5,Fresh asphalt patch read as damage
+O011438,ENG-04,FP,5.7,Fresh asphalt patch read as damage
+O011480,ENG-04,TP,3.0,Hazard confirmed
+O011485,ENG-01,TP,4.3,Hazard confirmed
+O011505,ENG-03,TP,6.4,Hazard confirmed
+O011509,ENG-02,TP,5.0,Hazard confirmed
+O011515,ENG-01,TP,5.2,Hazard confirmed
+O011538,AN-05,FP,4.7,"Fog patch, image unreadable"
+O011566,ENG-04,FP,2.0,"Haze obscured frame, nothing found on recheck"
+O011650,AN-01,FP,4.9,"Tree shadow across road, no debris"
+O011663,AN-04,TP,5.5,Hazard confirmed
+O011679,AN-02,TP,4.0,Hazard confirmed
+O011699,AN-01,TP,4.9,Hazard confirmed
+O011700,AN-06,FP,4.7,Fresh asphalt patch read as damage
+O011739,AN-02,TP,4.7,Hazard confirmed
+O011780,AN-05,FP,4.0,Nothing found on recheck
+O011781,AN-01,FP,3.5,Fresh asphalt patch read as damage
+O011788,ENG-04,FP,3.5,"Old rockfall, already cleared, road open"
+O011806,ENG-03,TP,5.6,Hazard confirmed
+O011823,ENG-02,TP,4.1,Hazard confirmed
+O011836,AN-01,TP,5.3,Hazard confirmed
+O011865,AN-06,TP,3.0,Hazard confirmed
+O011896,AN-04,TP,8.5,Hazard confirmed
+O011903,AN-05,FP,5.8,Fresh asphalt patch read as damage
+O011909,AN-04,TP,5.2,Hazard confirmed
+O011915,AN-05,TP,4.2,Hazard confirmed
+O011938,ENG-01,TP,5.1,Hazard confirmed
+O011944,AN-02,TP,6.6,Hazard confirmed
+O011967,AN-04,TP,3.6,Hazard confirmed
+O011975,ENG-03,TP,7.4,Hazard confirmed
+O012006,ENG-01,FP,5.1,Shadow line read as edge drop
+O012014,AN-01,TP,5.1,Hazard confirmed
+O012024,AN-02,TP,6.2,Hazard confirmed
+O012029,AN-02,FP,4.7,Painted road marking read as edge crack
+O012065,AN-06,FP,7.7,Fresh asphalt patch read as damage
+O012069,ENG-04,TP,3.8,Hazard confirmed
+O012078,AN-03,FP,4.9,Painted road marking read as edge crack
+O012085,AN-05,TP,3.6,Hazard confirmed
+O012091,AN-05,TP,6.7,Hazard confirmed
+O012129,AN-02,FP,7.6,Nothing found on recheck
+O012139,ENG-02,TP,5.3,Hazard confirmed
+O012183,AN-01,TP,4.2,Hazard confirmed
+O012190,AN-01,FP,4.8,Fresh asphalt patch read as damage
+O012195,AN-05,TP,4.5,Hazard confirmed
+O012200,ENG-03,TP,3.1,Hazard confirmed
+O012210,AN-05,TP,4.9,Hazard confirmed
+O012249,ENG-02,FP,6.5,Fresh asphalt patch read as damage
+O012265,ENG-02,TP,5.7,Hazard confirmed
+O012295,AN-04,FP,4.1,Same item as previous frame
+O012314,AN-04,TP,7.8,Hazard confirmed
+O012330,ENG-04,TP,4.6,Hazard confirmed
+O012331,ENG-02,TP,5.6,Hazard confirmed
+O012383,AN-05,TP,5.6,Hazard confirmed
+O012390,AN-06,TP,5.6,Hazard confirmed
+O012410,AN-03,TP,3.7,Hazard confirmed
+O012428,AN-01,TP,3.8,Hazard confirmed
+O012519,AN-04,FP,5.7,Painted road marking read as edge crack
+O012565,AN-05,FP,4.4,Fresh asphalt patch read as damage
+O012577,AN-02,TP,4.0,Hazard confirmed
+O012586,AN-05,TP,4.5,Hazard confirmed
+O012618,AN-04,TP,7.6,Hazard confirmed
+O012630,ENG-02,FP,4.9,"Fog patch, image unreadable"
+O012638,AN-01,TP,7.7,Hazard confirmed
+O012639,AN-06,FP,5.8,"Fog patch, image unreadable"
+O012649,ENG-01,TP,4.4,Hazard confirmed
+O012669,AN-02,TP,5.6,Hazard confirmed
+O012681,AN-06,TP,4.3,Hazard confirmed
+O012685,ENG-01,TP,5.1,Hazard confirmed
+O012695,AN-05,FP,5.4,Fresh asphalt patch read as damage
+O012712,AN-01,TP,5.0,Hazard confirmed
+O012750,AN-03,FP,3.3,"Unclear, road appears normal"
+O012759,AN-06,TP,5.6,Hazard confirmed
+O012769,AN-02,TP,4.7,Hazard confirmed
+O012816,AN-02,TP,6.4,Hazard confirmed
+O012825,ENG-03,TP,4.6,Hazard confirmed
+O012836,AN-03,TP,7.5,Hazard confirmed
+O012859,AN-06,FP,4.8,Shadow line read as edge drop
+O012861,AN-05,FP,3.6,Shadow line read as edge drop
+O012878,ENG-01,FP,4.7,Shadow line read as edge drop
+O012884,ENG-04,FP,6.7,Painted road marking read as edge crack
+O012885,ENG-02,TP,3.2,Hazard confirmed
+O012951,ENG-03,TP,2.0,Hazard confirmed
+O012986,ENG-03,FP,4.4,Fresh asphalt patch read as damage
+O012988,AN-03,TP,4.6,Hazard confirmed
+O012997,ENG-03,TP,3.6,Hazard confirmed
+O013009,ENG-02,FP,6.8,Fresh asphalt patch read as damage
+O013019,AN-02,FP,5.9,Fresh asphalt patch read as damage
+O013028,ENG-02,FP,4.2,Painted road marking read as edge crack
+O013046,AN-01,TP,5.6,Hazard confirmed
+O013066,ENG-03,TP,4.9,Hazard confirmed
+O013123,AN-04,FP,4.2,"Unclear, road appears normal"
+O013131,AN-03,TP,4.4,Hazard confirmed
+O013135,ENG-01,TP,7.3,Hazard confirmed
+O013142,AN-03,FP,5.6,Fresh asphalt patch read as damage
+O013185,ENG-04,TP,6.1,Hazard confirmed
+O013212,ENG-04,TP,6.7,Hazard confirmed
+O013219,AN-01,TP,4.8,Hazard confirmed
+O013243,ENG-03,TP,6.1,Hazard confirmed
+O013254,AN-02,TP,5.5,Hazard confirmed
+O013263,AN-03,TP,5.5,Hazard confirmed
+O013269,AN-06,TP,3.7,Hazard confirmed
+O013311,AN-04,TP,5.0,Hazard confirmed
+O013318,AN-02,TP,4.4,Hazard confirmed
+O013323,ENG-04,FP,5.1,Nothing found on recheck
+O013337,AN-02,FP,3.4,Painted road marking read as edge crack
+O013341,ENG-01,TP,6.5,Hazard confirmed
+O013349,AN-03,FP,3.6,Painted road marking read as edge crack
+O013375,AN-03,FP,3.9,Nothing found on recheck
+O013386,AN-06,TP,5.2,Hazard confirmed
+O013473,AN-03,FP,6.5,Shadow line read as edge drop
+O013482,AN-03,TP,5.4,Hazard confirmed
+O013504,AN-06,TP,5.5,Hazard confirmed
+O013513,ENG-01,TP,6.3,Hazard confirmed
+O013532,AN-06,TP,6.1,Hazard confirmed
+O013546,AN-03,FP,4.0,"Tree shadow across road, no debris"
+O013554,AN-01,FP,4.3,Fresh asphalt patch read as damage
+O013557,ENG-01,TP,4.9,Hazard confirmed
+O013570,AN-05,TP,7.2,Hazard confirmed
+O013572,ENG-04,TP,5.6,Hazard confirmed
+O013575,ENG-03,TP,3.9,Hazard confirmed
+O013613,AN-06,FP,4.7,Shadow line read as edge drop
+O013621,ENG-01,TP,5.1,Hazard confirmed
+O013680,ENG-02,FP,4.2,"Duplicate tile, hazard already logged"
+O013683,AN-03,FP,5.3,"Fog patch, image unreadable"
+O013690,ENG-01,TP,5.2,Hazard confirmed
+O013698,AN-05,FP,5.4,"Fog patch, image unreadable"
+O013699,ENG-02,FP,4.6,"Haze obscured frame, nothing found on recheck"
+O013700,ENG-03,FP,5.6,"Tree shadow across road, no debris"
+O013701,AN-02,FP,3.8,"Fog patch, image unreadable"
+O013729,AN-05,TP,6.0,Hazard confirmed
+O013766,ENG-03,FP,4.2,Painted road marking read as edge crack
+O013818,AN-05,TP,6.4,Hazard confirmed
+O013823,ENG-03,FP,7.6,"Unclear, road appears normal"
+O013836,ENG-03,TP,7.1,Hazard confirmed
+O013848,ENG-01,TP,5.1,Hazard confirmed
+O013866,ENG-01,TP,2.2,Hazard confirmed
+O013868,AN-05,TP,5.5,Hazard confirmed
+O013901,AN-04,TP,7.0,Hazard confirmed
+O013908,ENG-01,FP,4.0,"Unclear, road appears normal"
+O013916,AN-02,TP,2.5,Hazard confirmed
+O013918,ENG-01,TP,5.8,Hazard confirmed
+O013919,ENG-04,TP,7.1,Hazard confirmed
+O013928,ENG-01,TP,5.1,Hazard confirmed
+O013930,ENG-03,TP,3.5,Hazard confirmed
+O013965,AN-01,FP,4.0,Painted road marking read as edge crack
+O013969,ENG-02,TP,6.7,Hazard confirmed
+O014006,AN-04,FP,4.2,"Unclear, road appears normal"
+O014016,AN-05,TP,6.7,Hazard confirmed
+O014034,ENG-01,TP,3.8,Hazard confirmed
+O014040,ENG-01,TP,5.8,Hazard confirmed
+O014052,AN-05,TP,5.8,Hazard confirmed
+O014053,ENG-01,TP,3.4,Hazard confirmed
+O014077,AN-04,TP,6.7,Hazard confirmed
+O014083,AN-04,TP,3.8,Hazard confirmed
+O014152,ENG-04,TP,4.6,Hazard confirmed
+O014178,AN-03,TP,5.2,Hazard confirmed
+O014189,ENG-03,TP,6.9,Hazard confirmed
+O014190,AN-06,FP,6.0,Fresh asphalt patch read as damage
+O014243,AN-01,FP,5.7,"Tree shadow across road, no debris"
+O014362,AN-05,TP,5.2,Hazard confirmed
+O014369,AN-05,FP,4.7,"Tree shadow across road, no debris"
+O014374,ENG-03,TP,4.0,Hazard confirmed
+O014431,ENG-04,TP,5.2,Hazard confirmed
+O014438,ENG-02,FP,6.2,"Unclear, road appears normal"
+O014449,AN-04,FP,6.3,Painted road marking read as edge crack
+O014451,AN-06,TP,3.2,Hazard confirmed
+O014469,AN-04,TP,4.3,Hazard confirmed
+O014470,ENG-02,FP,5.1,Shadow line read as edge drop
+O014472,ENG-04,TP,8.7,Hazard confirmed
+O014475,AN-05,FP,5.1,Fresh asphalt patch read as damage
+O014487,AN-05,TP,7.3,Hazard confirmed
+O014495,AN-02,TP,4.7,Hazard confirmed
+O014536,AN-03,TP,4.0,Hazard confirmed
+O014540,ENG-02,TP,5.9,Hazard confirmed
+O014548,AN-03,TP,5.8,Hazard confirmed
+O014554,ENG-02,TP,4.1,Hazard confirmed
+O014562,ENG-02,TP,3.0,Hazard confirmed
+O014577,ENG-02,FP,5.7,"Duplicate tile, hazard already logged"
+O014591,ENG-01,FP,4.0,Fresh asphalt patch read as damage
+O014601,AN-02,FP,4.9,"Unclear, road appears normal"
+O014608,AN-04,FP,4.0,Nothing found on recheck
+O014620,AN-02,FP,6.6,"Tree shadow across road, no debris"
+O014630,AN-01,FP,4.5,Fresh asphalt patch read as damage
+O014633,AN-06,FP,3.4,Fresh asphalt patch read as damage
+O014650,ENG-03,TP,3.5,Hazard confirmed
+O014653,ENG-04,FP,6.1,Painted road marking read as edge crack
+O014670,AN-06,TP,3.8,Hazard confirmed
+O014727,AN-01,TP,2.8,Hazard confirmed
+O014728,AN-04,FP,4.4,"Duplicate tile, hazard already logged"
+O014758,AN-03,TP,5.9,Hazard confirmed
+O014762,AN-01,TP,5.3,Hazard confirmed
+O014794,AN-05,FP,5.8,Same item as previous frame
+O014817,ENG-04,FP,4.4,Fresh asphalt patch read as damage
+O014833,AN-06,TP,4.9,Hazard confirmed
+O014858,AN-05,TP,6.0,Hazard confirmed
+O014861,AN-06,TP,6.8,Hazard confirmed
+O014866,AN-06,TP,5.6,Hazard confirmed
+O014873,AN-02,TP,5.0,Hazard confirmed
+O014905,AN-04,FP,6.8,Fresh asphalt patch read as damage
+O014910,AN-06,TP,4.4,Hazard confirmed
+O014915,ENG-01,TP,4.2,Hazard confirmed
+O014921,AN-03,TP,4.3,Hazard confirmed
+O014923,ENG-03,TP,6.0,Hazard confirmed
+O014949,AN-03,TP,5.9,Hazard confirmed
+O014953,AN-05,TP,6.8,Hazard confirmed
+O014966,ENG-04,TP,4.8,Hazard confirmed
+O014975,AN-05,TP,6.2,Hazard confirmed
+O014981,AN-01,TP,4.3,Hazard confirmed
+O014994,AN-06,TP,6.6,Hazard confirmed
+O015001,AN-05,TP,4.3,Hazard confirmed
+O015009,ENG-02,FP,3.4,Painted road marking read as edge crack
+O015014,ENG-02,FP,5.0,Nothing found on recheck
+O015029,AN-02,TP,4.2,Hazard confirmed
+O015035,AN-06,TP,4.6,Hazard confirmed
+O015039,AN-02,TP,3.8,Hazard confirmed
+O015060,ENG-02,TP,3.0,Hazard confirmed
+O015067,AN-05,FP,6.7,Fresh asphalt patch read as damage
+O015070,ENG-02,TP,5.1,Hazard confirmed
+O015072,AN-02,FP,5.2,Fresh asphalt patch read as damage
+O015124,ENG-02,TP,5.2,Hazard confirmed
+O015150,ENG-04,FP,5.0,Fresh asphalt patch read as damage
+O015151,ENG-02,TP,6.2,Hazard confirmed
+O015205,AN-01,FP,6.1,Nothing found on recheck
+O015220,AN-01,TP,4.6,Hazard confirmed
+O015224,ENG-04,TP,4.1,Hazard confirmed
+O015231,AN-05,TP,5.7,Hazard confirmed
+O015249,AN-06,TP,4.6,Hazard confirmed
+O015272,AN-04,FP,4.0,"Unclear, road appears normal"
+O015273,ENG-03,FP,5.1,Painted road marking read as edge crack
+O015298,ENG-02,FP,5.7,"Tree shadow across road, no debris"
+O015310,ENG-03,FP,5.7,Shadow line read as edge drop
+O015327,AN-02,FP,5.0,"Tree shadow across road, no debris"
+O015329,AN-04,FP,3.6,"Fog patch, image unreadable"
+O015395,ENG-02,TP,6.1,Hazard confirmed
+O015406,AN-05,TP,6.1,Hazard confirmed
+O015416,AN-01,TP,7.7,Hazard confirmed
+O015451,AN-03,FP,5.4,Shadow line read as edge drop
+O015464,ENG-04,TP,6.0,Hazard confirmed
+O015469,AN-05,FP,3.8,"Tree shadow across road, no debris"
+O015510,AN-02,TP,6.0,Hazard confirmed
+O015526,ENG-02,TP,6.3,Hazard confirmed
+O015532,AN-03,FP,7.8,Fresh asphalt patch read as damage
+O015558,AN-06,TP,4.5,Hazard confirmed
+O015604,ENG-04,FP,5.8,Same item as previous frame
+O015611,ENG-04,FP,3.9,Nothing found on recheck
+O015621,AN-05,TP,4.0,Hazard confirmed
+O015628,AN-02,TP,6.1,Hazard confirmed
+O015659,AN-06,TP,5.8,Hazard confirmed
+O015662,AN-01,TP,5.6,Hazard confirmed
+O015683,AN-05,TP,3.1,Hazard confirmed
+O015726,ENG-01,TP,3.2,Hazard confirmed
+O015738,AN-01,TP,3.8,Hazard confirmed
+O015740,AN-04,TP,5.4,Hazard confirmed
+O015766,ENG-02,TP,6.0,Hazard confirmed
+O015771,AN-02,TP,6.0,Hazard confirmed
+O015781,AN-04,TP,4.0,Hazard confirmed
+O015796,ENG-01,TP,4.8,Hazard confirmed
+O015812,AN-01,TP,4.2,Hazard confirmed
+O015851,ENG-02,FP,5.5,Same item as previous frame
+O015854,AN-06,TP,3.9,Hazard confirmed
+O015861,AN-02,TP,5.0,Hazard confirmed
+O015878,AN-04,FP,5.2,"Fog patch, image unreadable"
+O015886,AN-02,TP,3.6,Hazard confirmed
+O015899,ENG-03,FP,2.8,Fresh asphalt patch read as damage
+O015919,AN-03,FP,5.6,Painted road marking read as edge crack
+O015920,ENG-04,FP,4.1,Fresh asphalt patch read as damage
+O015942,AN-06,TP,3.6,Hazard confirmed
+O015976,ENG-01,FP,5.5,"Tree shadow across road, no debris"
+O015996,AN-04,TP,2.6,Hazard confirmed
+O016027,AN-04,TP,4.4,Hazard confirmed
+O016044,AN-03,FP,5.0,"Tree shadow across road, no debris"
+O016057,AN-03,TP,5.0,Hazard confirmed
+O016066,AN-02,TP,4.7,Hazard confirmed
+O016068,ENG-01,TP,4.6,Hazard confirmed
+O016106,AN-03,FP,5.4,Painted road marking read as edge crack
+O016110,AN-01,TP,6.4,Hazard confirmed
+O016113,AN-03,TP,4.8,Hazard confirmed
+O016121,ENG-01,TP,4.6,Hazard confirmed
+O016132,AN-01,TP,6.4,Hazard confirmed
+O016176,ENG-02,TP,4.0,Hazard confirmed
+O016182,AN-01,FP,6.5,"Haze obscured frame, nothing found on recheck"
+O016183,AN-01,FP,7.3,"Haze obscured frame, nothing found on recheck"
+O016192,ENG-04,FP,3.2,"Fog patch, image unreadable"
+O016193,AN-05,TP,4.3,Hazard confirmed
+O016200,AN-02,FP,5.2,Shadow line read as edge drop
+O016213,AN-02,TP,3.9,Hazard confirmed
+O016220,AN-06,FP,6.0,Fresh asphalt patch read as damage
+O016249,AN-06,TP,8.1,Hazard confirmed
+O016254,ENG-02,TP,4.8,Hazard confirmed
+O016284,AN-01,FP,2.3,"Fog patch, image unreadable"
+O016295,ENG-03,FP,3.8,"Haze obscured frame, nothing found on recheck"
+O016305,ENG-02,FP,6.1,"Fog patch, image unreadable"
+O016307,ENG-02,FP,5.3,"Fog patch, image unreadable"
+O016311,AN-03,FP,4.3,"Fog patch, image unreadable"
+O016314,AN-06,FP,3.9,"Fog patch, image unreadable"
+O016319,AN-04,FP,7.2,"Haze obscured frame, nothing found on recheck"
+O016322,AN-01,FP,4.3,Shadow line read as edge drop
+O016379,AN-02,TP,4.0,Hazard confirmed
+O016380,AN-02,TP,6.9,Hazard confirmed
+O016397,AN-04,TP,4.6,Hazard confirmed
+O016456,AN-06,TP,5.6,Hazard confirmed
+O016486,ENG-02,FP,6.9,Fresh asphalt patch read as damage
+O016500,ENG-02,TP,5.2,Hazard confirmed
+O016531,AN-01,TP,4.2,Hazard confirmed
+O016535,AN-04,TP,5.6,Hazard confirmed
+O016557,AN-01,TP,5.8,Hazard confirmed
+O016562,AN-06,TP,3.7,Hazard confirmed
+O016589,AN-06,TP,5.2,Hazard confirmed
+O016619,ENG-03,TP,5.7,Hazard confirmed
+O016626,AN-06,TP,3.2,Hazard confirmed
+O016627,ENG-02,TP,3.5,Hazard confirmed
+O016655,AN-03,TP,5.0,Hazard confirmed
+O016660,AN-02,TP,4.3,Hazard confirmed
+O016698,AN-05,FP,3.5,Painted road marking read as edge crack
+O016710,ENG-02,TP,5.1,Hazard confirmed
+O016746,AN-01,TP,3.5,Hazard confirmed
+O016770,AN-01,TP,5.7,Hazard confirmed
+O016820,ENG-03,FP,4.2,"Unclear, road appears normal"
+O016828,AN-04,TP,4.1,Hazard confirmed
+O016903,AN-03,TP,4.4,Hazard confirmed
+O016931,AN-02,TP,5.7,Hazard confirmed
+O016951,ENG-04,TP,4.1,Hazard confirmed
+O016960,AN-02,TP,3.6,Hazard confirmed
+O016961,ENG-04,TP,4.9,Hazard confirmed
+O016964,ENG-01,TP,5.8,Hazard confirmed
+O016973,AN-05,FP,4.6,Fresh asphalt patch read as damage
+O016996,AN-04,TP,6.5,Hazard confirmed
+O017027,AN-03,TP,4.7,Hazard confirmed
+O017064,AN-04,TP,2.9,Hazard confirmed
+O017118,ENG-03,FP,3.1,"Tree shadow across road, no debris"
+O017119,ENG-01,TP,4.9,Hazard confirmed
+O017129,AN-03,FP,6.4,Shadow line read as edge drop
+O017131,AN-03,TP,5.0,Hazard confirmed
+O017134,AN-05,TP,4.7,Hazard confirmed
+O017162,ENG-01,FP,5.6,Painted road marking read as edge crack
+O017166,AN-04,FP,5.4,Shadow line read as edge drop
+O017171,ENG-02,FP,5.9,"Tree shadow across road, no debris"
+O017181,AN-02,TP,4.5,Hazard confirmed
+O017186,AN-05,FP,5.7,Shadow line read as edge drop
+O017221,ENG-03,FP,5.5,Painted road marking read as edge crack
+O017224,ENG-02,TP,7.1,Hazard confirmed
+O017227,AN-05,FP,3.9,Painted road marking read as edge crack
+O017240,ENG-03,TP,3.9,Hazard confirmed
+O017244,AN-04,TP,4.5,Hazard confirmed
+O017258,AN-01,FP,4.2,Nothing found on recheck
+O017262,AN-05,TP,4.8,Hazard confirmed
+O017271,AN-06,FP,5.4,Painted road marking read as edge crack
+O017330,AN-02,TP,7.1,Hazard confirmed
+O017342,AN-04,FP,4.8,Painted road marking read as edge crack
+O017352,ENG-03,TP,5.5,Hazard confirmed
+O017364,ENG-02,TP,3.7,Hazard confirmed
+O017365,AN-02,TP,4.0,Hazard confirmed
+O017373,ENG-02,FP,4.3,"Haze obscured frame, nothing found on recheck"
+O017374,AN-05,FP,4.6,"Fog patch, image unreadable"
+O017400,AN-04,FP,4.0,"Haze obscured frame, nothing found on recheck"
+O017403,ENG-02,TP,4.8,Hazard confirmed
+O017410,ENG-04,FP,4.9,"Fog patch, image unreadable"
+O017412,AN-05,TP,5.9,Hazard confirmed
+O017424,AN-03,TP,2.4,Hazard confirmed
+O017429,AN-05,TP,5.8,Hazard confirmed
+O017452,AN-06,TP,5.6,Hazard confirmed
+O017455,AN-06,FP,3.5,"Old rockfall, already cleared, road open"
+O017511,ENG-02,TP,2.4,Hazard confirmed
+O017516,AN-02,TP,5.1,Hazard confirmed
+O017521,ENG-04,FP,5.1,Painted road marking read as edge crack
+O017527,ENG-03,FP,6.0,Fresh asphalt patch read as damage
+O017541,AN-02,TP,4.6,Hazard confirmed
+O017557,ENG-02,TP,4.5,Hazard confirmed
+O017580,ENG-01,FP,4.8,Nothing found on recheck
+O017604,AN-04,TP,6.0,Hazard confirmed
+O017622,ENG-03,FP,5.6,"Fog patch, image unreadable"
+O017637,ENG-01,FP,5.5,"Haze obscured frame, nothing found on recheck"
+O017641,AN-06,FP,4.0,"Fog patch, image unreadable"
+O017659,ENG-04,FP,6.6,Nothing found on recheck
+O017665,ENG-02,TP,3.6,Hazard confirmed
+O017705,AN-04,FP,7.2,Nothing found on recheck
+O017764,AN-04,TP,7.0,Hazard confirmed
+O017794,AN-06,TP,5.4,Hazard confirmed
+O017803,ENG-04,TP,4.1,Hazard confirmed
+O017807,ENG-03,TP,4.0,Hazard confirmed
+O017836,AN-06,TP,3.2,Hazard confirmed
+O017847,ENG-03,FP,4.1,"Tree shadow across road, no debris"
+O017865,AN-01,TP,4.4,Hazard confirmed
+O017911,AN-06,TP,2.3,Hazard confirmed
+O017938,AN-02,TP,5.6,Hazard confirmed
+O017976,AN-06,TP,5.1,Hazard confirmed
+O017989,AN-06,TP,3.7,Hazard confirmed
+O017992,AN-05,TP,5.5,Hazard confirmed
+O018008,AN-02,FP,3.5,Painted road marking read as edge crack
+O018028,AN-03,TP,2.6,Hazard confirmed
+O018043,AN-02,FP,6.5,Shadow line read as edge drop
+O018045,AN-01,TP,6.3,Hazard confirmed
+O018057,AN-02,FP,5.2,Shadow line read as edge drop
